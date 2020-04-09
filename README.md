@@ -26,3 +26,11 @@ Specifically, the following topics are covered:
 18. Autoencoders, VAEs, and GANs
 19. Time-Series Models, Auto-regressive NNs
 20. Recommender systems
+
+
+Professor: Nik Bear Brown
+
+Email: nikbearbrown@gmail.com
+
+@nikbearbrown
+
