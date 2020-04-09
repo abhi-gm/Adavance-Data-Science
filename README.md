@@ -28,9 +28,8 @@ Specifically, the following topics are covered:
 20. Recommender systems
 
 
+###**Under** 
 Professor: Nik Bear Brown
-
 Email: nikbearbrown@gmail.com
-
 @nikbearbrown
 
